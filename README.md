@@ -2,11 +2,7 @@
 <h1 align="center">Hi, I am Ana 👋</h1>
 </div>
 
-</head>
-<body>
-    <div class="typing">Welcome to AnaNofuentes Github</div>
-</body>
-</html>
+
 
 
 <br>
