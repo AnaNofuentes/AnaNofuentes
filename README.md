@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Ana 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome to Ana's!" width="300"/>
+<img " alt="Welcome to Ana's!" width="300"/>
 
 
 
