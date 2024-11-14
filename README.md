@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I am Ana 👋</h1>
 </div>
 
-<img " alt="Welcome to Ana's!" width="300"/>
 
 
 
